@@ -11,9 +11,18 @@ Generator architecture:
 <div align=center><img src="https://github.com/hanna-xu/DDcGAN/blob/master/figures/Generator.png" width="520" height="280"/></div><br>
 
 
-If this work is helpful to you, please cite it as: 
-
-
+If this work is helpful to you, please cite it as:<br>
+```
+@article{ma2020ddcgan,
+  title={DDcGAN: A Dual-discriminator Conditional Generative Adversarial Network for Multi-resolution Image Fusion},
+  author={Ma, Jiayi and Xu, Han and Jiang, Junjun and Mei, Xiaoguang and Zhang, Xiao-Ping},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={4980--4995},
+  year={2020},
+  publisher={IEEE}
+}
+```
 The previous version of our work can be seen in this paper:<br>
 ```
 @inproceedings{xu2019learning,
